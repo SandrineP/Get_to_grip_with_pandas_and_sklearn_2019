@@ -3,7 +3,7 @@
 Licence Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
-### Installatiion
+### Installation
 
 You will need obviously need to have python (3!!!) and to install the following:
 - jupyter
@@ -11,6 +11,6 @@ You will need obviously need to have python (3!!!) and to install the following:
 - scikit-learn
 - matplotlib
 - seaborn
-- yellowbricku 
+- yellowbrick 
 
 You can use conda (if you already have installed anaconda) or pip.
