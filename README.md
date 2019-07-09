@@ -1,10 +1,16 @@
+# Get to Grips with Pandas and Skklearn
+
 Licence Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
+### Installatiion
 
-# get_to_grips_with_pandas_and_sklearn
+You will need obviously need to have python (3!!!) and to install the following:
+- jupyter
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- yellowbricku 
 
-Please make sure to install anaconda:
-https://conda.io/docs/user-guide/install/index.html#regular-installation
-
-Or pip install jupyter, pandas and sklearn.
+You can use conda (if you already have installed anaconda) or pip.
